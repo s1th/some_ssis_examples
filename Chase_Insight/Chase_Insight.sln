@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Chase_Insight", "Chase_Insight\Chase_Insight.dtproj", "{607D109C-44D8-4E8D-8E90-70A6DF3E48C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607D109C-44D8-4E8D-8E90-70A6DF3E48C2}.Development|Default.ActiveCfg = Development
+		{607D109C-44D8-4E8D-8E90-70A6DF3E48C2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

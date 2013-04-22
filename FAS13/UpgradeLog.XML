@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FAS13">
+</Property><Property Name="Solution File" Value="X:\ETL Re-write\FAS13\FAS13.sln">
+</Property><Property Name="Date" Value="Wednesday, March 20, 2013">
+</Property><Property Name="Time" Value="15:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FAS13.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FAS13.sln" Description="Converted">
+</Event></UpgradeLog>

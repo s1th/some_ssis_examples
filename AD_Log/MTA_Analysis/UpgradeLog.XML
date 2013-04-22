@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MTA_Analysis">
+</Property><Property Name="Solution File" Value="X:\ETL Re-write\AD_Log\MTA_Analysis\MTA_Analysis.sln">
+</Property><Property Name="Date" Value="Wednesday, March 20, 2013">
+</Property><Property Name="Time" Value="16:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MTA_Analysis.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MTA_Analysis.sln" Description="Converted">
+</Event></UpgradeLog>
